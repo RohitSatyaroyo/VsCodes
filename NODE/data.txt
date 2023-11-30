@@ -1,0 +1,11 @@
+user details const users=[
+    {
+        name:'rohit',
+        age:'22'
+    }
+] const product=[
+    {
+        name:'vasuphone',
+        price:'24K'
+    }
+]
